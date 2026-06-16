@@ -1,0 +1,6 @@
+{
+  "name": "InsightFlow AI",
+  "description": "AI-Powered Business Intelligence & Decision Support Platform. Streamline business decision-making by unifying data across systems, generating automated insights, and risk alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
